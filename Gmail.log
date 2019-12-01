@@ -1,0 +1,18 @@
+2019-12-01 18:34:36 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ba42de840d847bb6e3d494cd185cfd23)] -> xpath: //input[@id='identifierId']] found
+2019-12-01 18:34:36 INFO  BasePage:36 - username is abcdpqr2019@gmail.com
+2019-12-01 18:34:36 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ba42de840d847bb6e3d494cd185cfd23)] -> xpath: //span[text()='Next']] found
+2019-12-01 18:34:37 INFO  BasePage:64 -  Button is clicked [[ChromeDriver: chrome on XP (ba42de840d847bb6e3d494cd185cfd23)] -> xpath: //span[text()='Next']]
+2019-12-01 18:34:38 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ba42de840d847bb6e3d494cd185cfd23)] -> name: password] found
+2019-12-01 18:34:38 INFO  BasePage:50 - password is Abc2019@9
+2019-12-01 18:34:38 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ba42de840d847bb6e3d494cd185cfd23)] -> xpath: //span[text()='Next']] found
+2019-12-01 18:34:38 INFO  BasePage:64 -  Button is clicked [[ChromeDriver: chrome on XP (ba42de840d847bb6e3d494cd185cfd23)] -> xpath: //span[text()='Next']]
+2019-12-01 18:34:41 ERROR BasePage:35 - null and Inbox are not matched.
+2019-12-01 18:34:54 ERROR BaseTest:53 - Testcase failed org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.108)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-DCB3DST', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\Pranjali\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62057}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ba42de840d847bb6e3d494cd185cfd23
+*** Element info: {Using=xpath, value=//div[text()='Compose']}

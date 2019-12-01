@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Gmail">
+<listeners>
+<listener class-name="com.gmail.generics.ITest"></listener>
+</listeners>
+  <test name="Regression">
+		<classes>
+           <class name="com.gmail.testscripts.SendEmail"></class>
+		</classes>
+  </test> <!-- Regression -->
+</suite> <!-- Gmail -->
